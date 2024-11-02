@@ -1,5 +1,5 @@
 	//Sticky Navbar
-    let header = document.querySelector('header');
+    let header = document.querySelector('header'); // qs
     let menu = document.querySelector('#menu-icon');
     let navbar = document.querySelector('.navbar');
      
