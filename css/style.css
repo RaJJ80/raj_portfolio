@@ -97,12 +97,12 @@ header.shadow {
   font-size: 22px;
   cursor: pointer;
 }
-.home__title {
+#home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
 }
-.home__title-color {
-  color: var(--first-color);
+#home__title-color {
+  color: rgb(51, 2, 166);
 }
 .home {
   position: relative;
@@ -397,7 +397,7 @@ form textarea {
   margin-left: 10px;
   text-align: center;
   line-height: 40px;
-  background-color: #fff;
+  background-color: #ebebeb;
   border-radius: 50%;
   width: 40px;
   height: 40px;
